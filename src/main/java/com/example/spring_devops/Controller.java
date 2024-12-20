@@ -8,6 +8,6 @@ public class Controller {
     
     @GetMapping("/getData")
     public String getData(){
-        return "This is Jenkins test project";
+        return "This is Jenkins and docker connection project";
     }
 }
